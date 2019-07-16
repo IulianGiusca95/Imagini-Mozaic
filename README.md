@@ -5,4 +5,5 @@ Am folosit un set de date de dimensiune mica (60 imagini de dimensiuni 40x30). S
 
 Fisierul ce va fi apelat pentru rularea temei este __ruleazaTema.m__ din folder-ul data. Parametrii pentru diferite moduri de formare a imaginilor pot fi modificati in acest fisier.
 
-! To Do: Rescris cod in engleza
+! To Do: Rescris cod in engleza. 
+! Imagini rezultate: soon
